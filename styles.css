@@ -11,7 +11,8 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background-color: #563F70;
+    /* background-color: #563F70; */
+    background-color: #54311A;
 }
 
 .wrapper{
