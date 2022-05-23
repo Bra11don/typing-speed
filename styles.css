@@ -168,7 +168,7 @@ body{
     .content .result-details{
         display: block;
         width: calc(100% - 110px);
-        font-size: 15px;
+        font-size: 13px;
         justify-content: space-between;
 
     }
@@ -176,7 +176,7 @@ body{
     .result-details li{
         list-style: none;
         display: flex;
-        height: 22px;
+        height: 20px;
         align-items: center;
         border: 30px 0;
     }
